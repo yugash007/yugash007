@@ -51,7 +51,7 @@
 
 ### 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/yugash007) · [Instagram](https://www.instagram.com/yugash_007) · [Email](mailto:yugash05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yugash0007) · [Instagram](https://www.instagram.com/yugash_007) · [Email](mailto:yugash05@gmail.com)
 
 ---
 
