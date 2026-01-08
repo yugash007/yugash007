@@ -1,104 +1,95 @@
-<!-- ===== Animated Typing Header ===== -->
+<!-- ========================= -->
+<!-- ✨ HERO ANIMATED HEADER ✨ -->
+<!-- ========================= -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-    ?font=Inter
-    &weight=600
-    &size=30
-    &duration=2800
-    &pause=900
-    &color=36BCF7
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=Hi%2C+I'm+Yugash;B.Tech+AI+%26+ML+Student;Problem+Solver+%7C+CS+Foundations+First;Learning+Deeply%2C+Building+Honestly" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yugash;B.Tech+Artificial+Intelligence+%26+Machine+Learning;Engineer+in+the+Making;Foundations+First.+Depth+Always." />
 </p>
 
-<!-- ===== Animated Divider ===== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656960-8f8c0d9a-6c6c-4d45-9f6e-9c9c8b6b5b6b.gif" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=8&color=0:3b82f6,100:22d3ee"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9f1bb9bb-44b1-4a2f-9c8b-6b6e7b62e48b.gif" width="90%" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧠 Who I Am
 
-**B.Tech – Artificial Intelligence & Machine Learning**  
-**Java | Python | AIML | Problem Solver**
+**B.Tech — Artificial Intelligence & Machine Learning**  
+**Problem Solver | CS Foundations Enthusiast | Responsible AI Learner**
 
-I am an undergraduate student focused on building **strong computer science fundamentals**, **clear logical thinking**, and **responsible AI systems**.
+I am an undergraduate engineer focused on **mastering fundamentals before scaling complexity**.  
+I believe true engineering is not speed — it is **clarity, correctness, and consistency**.
 
-I believe great engineers are built through  
-**clarity → consistency → disciplined execution**.
+I don’t chase trends.  
+I build **depth**.
 
-> *Consistency with purpose is the real superpower.*
+> **Clarity → Consistency → Compounding Excellence**
 
 ---
 
-## 🎯 Current Focus (2025–2026)
+## 🎯 Current Mission (2025–2026)
 
-- **Data Structures & Algorithms** — Java (patterns, optimization, interviews)
+- **Data Structures & Algorithms (Java)**  
+  Patterns, edge cases, optimization, interview-grade thinking
 - **Artificial Intelligence & Machine Learning**
-  - Python foundations  
-  - ML concepts, data handling, model logic
+  - Python foundations
+  - Data handling, ML logic, model reasoning
 - **Core Computer Science**
-  - C programming (memory & low-level understanding)
+  - C programming (memory, pointers, low-level understanding)
 - **Web Fundamentals**
-  - HTML & CSS (structure-first approach)
-- **Version Control**
-  - Git & GitHub (clean commits, workflows)
+  - HTML & CSS (structure, semantics, layout discipline)
+- **Engineering Workflow**
+  - Git & GitHub (clean commits, readable history)
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technical Arsenal
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
 </p>
 
 ### 🌐 Web
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
-### ⚙️ Tools & Platforms
+### 🛠 Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured & Ongoing Projects
+## 🧩 Projects & Work
 
-| Repository | Description |
-|----------|-------------|
-| **DSA-with-Java-Roadmap** | Structured roadmap for mastering Java DSA with patterns and practice strategy |
-| **AI-Arena (Hackathon Project)** | AI-based platform concept with modular, scalable architecture |
-| **HTML-CSS-Mini-Projects** | Clean UI mini projects for frontend fundamentals |
-| **Python-Logic-Practice** | Logic-building Python programs and exercises |
+| Focus Area | Description |
+|-----------|-------------|
+| **DSA with Java** | Structured roadmap, patterns, and problem-solving strategy |
+| **AI Arena (Hackathon Project)** | Modular AI platform concept with scalable system thinking |
+| **Frontend Mini Projects** | HTML & CSS projects focusing on layout and clarity |
+| **Python Logic Practice** | Logic-building programs and algorithmic exercises |
 
----
-
-## 🏆 Learning & Growth
-
-- Participating in **hackathons and innovation challenges**
-- Completing **industry-aligned AIML courses**
-- Consistent **DSA & logic problem-solving**
-- Exploring **AI for social and environmental impact**
+> Every project here exists to **strengthen thinking**, not inflate resumes.
 
 ---
 
-## 📫 Connect With Me
+## 🌱 Learning Philosophy
+
+- Learn **slowly**, but **deeply**
+- Prefer **first principles** over shortcuts
+- Build systems that **explain themselves**
+- Use AI **ethically and responsibly**
+
+---
+
+## 📬 Reach Me
 
 <p align="left">
   <a href="mailto:yugash05@gmail.com">
@@ -112,15 +103,20 @@ I believe great engineers are built through
   </a>
 </p>
 
-📄 **Resume:** _In progress_
+📄 **Resume:** In progress
 
 ---
 
-## 🤝 Final Note
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=8&color=0:22d3ee,100:3b82f6"/>
+</p>
 
-I am not here to look impressive.  
-I am here to **build real skill**, **strong fundamentals**, and **truthful engineering depth**.
+## 🕊 Final Words
 
-If you value **discipline, depth, and long-term thinking**, let’s connect.
+I am not here to impress.  
+I am here to **become precise, reliable, and truthful in engineering**.
+
+If you believe in **discipline, depth, and long-term mastery** —  
+we will resonate.
 
 **सत्यमेव जयते**
