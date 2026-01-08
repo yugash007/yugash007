@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdGt4bW14dzJ6bXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dISk854t1X830LCa8q/giphy.gif" width="70"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70"/>
 
 <h1>Hi, I'm Devineni Yugash 👋</h1>
 
@@ -82,25 +82,38 @@ Learn deeply.
 Build slowly.
 Think clearly.
 Act consistently.
+
 I don’t chase trends.
 I invest in fundamentals that compound.
 
-🤝 Connect With Me
+---
+
+## 🤝 Connect With Me
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yugash0007)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yugash007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yugash05@gmail.com)
 
-
-
-📄 Resume: In progress
+📄 **Resume:** In progress
 
 </div>
+
+---
+
 <div align="center">
+
+```text
 ╔══════════════════════════════════════════════════════╗
 ║  I am not here to look impressive.                  ║
 ║  I am here to build real skill and honest depth.    ║
 ║                                                      ║
-║  If you value discipline and long-term thinking,   ║
+║  If you value discipline and long-term thinking,    ║
 ║  we will resonate.                                  ║
 ╚══════════════════════════════════════════════════════╝
-सत्यमेव जयते
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/> </div> ```
+'''
+</div>
+
+**सत्यमेव जयते**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/> 
