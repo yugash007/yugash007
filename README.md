@@ -104,16 +104,13 @@ I invest in fundamentals that compound.
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║  I am not here to look impressive.                  ║
-║  I am here to build real skill and honest depth.    ║
-║                                                      ║
-║  If you value discipline and long-term thinking,    ║
-║  we will resonate.                                  ║
-╚══════════════════════════════════════════════════════╝
-'''
-</div>
+**I am not here to look impressive.  
+I am here to build real skill and honest depth.**
+
+If you value discipline and long-term thinking, we will resonate.
 
 **सत्यमेव जयते**
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%"/>
+
+</div>
