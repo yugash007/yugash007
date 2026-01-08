@@ -1,73 +1,126 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BxdGt4bW14dzJ6bXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dISk854t1X830LCa8q/giphy.gif" width="60"/>
-  
-  <h1 align="center">Hi, I'm Devineni Yugash! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
+<!-- ===== Animated Typing Header ===== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com
+    ?font=Inter
+    &weight=600
+    &size=30
+    &duration=2800
+    &pause=900
+    &color=36BCF7
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Hi%2C+I'm+Yugash;B.Tech+AI+%26+ML+Student;Problem+Solver+%7C+CS+Foundations+First;Learning+Deeply%2C+Building+Honestly" 
+  />
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=B.Tech+AIML+Student;Java+%7C+Python+%7C+Problem+Solving;Building+Responsible+AI;Discipline+%2B+Consistency" alt="Typing SVG" />
+<!-- ===== Animated Divider ===== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656960-8f8c0d9a-6c6c-4d45-9f6e-9c9c8b6b5b6b.gif" width="85%" />
+</p>
+
+---
+
+## 👋 About Me
+
+**B.Tech – Artificial Intelligence & Machine Learning**  
+**Java | Python | AIML | Problem Solver**
+
+I am an undergraduate student focused on building **strong computer science fundamentals**, **clear logical thinking**, and **responsible AI systems**.
+
+I believe great engineers are built through  
+**clarity → consistency → disciplined execution**.
+
+> *Consistency with purpose is the real superpower.*
+
+---
+
+## 🎯 Current Focus (2025–2026)
+
+- **Data Structures & Algorithms** — Java (patterns, optimization, interviews)
+- **Artificial Intelligence & Machine Learning**
+  - Python foundations  
+  - ML concepts, data handling, model logic
+- **Core Computer Science**
+  - C programming (memory & low-level understanding)
+- **Web Fundamentals**
+  - HTML & CSS (structure-first approach)
+- **Version Control**
+  - Git & GitHub (clean commits, workflows)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### 🌐 Web
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured & Ongoing Projects
+
+| Repository | Description |
+|----------|-------------|
+| **DSA-with-Java-Roadmap** | Structured roadmap for mastering Java DSA with patterns and practice strategy |
+| **AI-Arena (Hackathon Project)** | AI-based platform concept with modular, scalable architecture |
+| **HTML-CSS-Mini-Projects** | Clean UI mini projects for frontend fundamentals |
+| **Python-Logic-Practice** | Logic-building Python programs and exercises |
+
+---
+
+## 🏆 Learning & Growth
+
+- Participating in **hackathons and innovation challenges**
+- Completing **industry-aligned AIML courses**
+- Consistent **DSA & logic problem-solving**
+- Exploring **AI for social and environmental impact**
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:yugash05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/yugash0007">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yugash_007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-<br>
+📄 **Resume:** _In progress_
 
-<div align="center">
-  <blockquote>
-    <i>"Real engineering is about Clarity, Consistency, and Depth."</i>
-  </blockquote>
-</div>
+---
 
-<br>
+## 🤝 Final Note
 
-### 👨‍💻 About Me
+I am not here to look impressive.  
+I am here to **build real skill**, **strong fundamentals**, and **truthful engineering depth**.
 
-I am an undergraduate specializing in **Artificial Intelligence & Machine Learning** at **Mohan Babu University**. My focus is on mastering computer science fundamentals, data structures, and building scalable technology that serves both people and nature.
+If you value **discipline, depth, and long-term thinking**, let’s connect.
 
-- 🔭 **Currently working on:** Advanced DSA in Java & Python ML Foundations.
-- 🌱 **Learning:** System Design and Backend Architecture.
-- 🎯 **Goal:** Industry-ready by 2026 (Google/Nvidia/Microsoft).
-- 🧘 **Values:** Truth (Satya), Compassion (Ahimsa), and Discipline.
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| **Languages** | **AI & Data** | **Web & Tools** |
-|:---:|:---:|:---:|
-| <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> | <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
-
-</div>
-
-<br>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yugash007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="yugash007's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugash007&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="yugash007's languages" />
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugash007&theme=tokyonight&hide_border=true" alt="yugash007's streak" />
-</div>
-
-<br>
-
-### 🚀 Key Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DSA Patterns** | My collection of optimized solutions for LeetCode problems. | `Java` `Algorithms` |
-| **ML Foundations** | Data analysis and predictive modeling notebooks. | `Python` `Pandas` |
-| **Web Apps** | Frontend experiments and responsive designs. | `HTML` `CSS` `JS` |
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-  <br>
-  <sub><i>"Consistency with purpose is the real superpower."</i></sub>
-  <br><br>
-  <a href="LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+**सत्यमेव जयते**
