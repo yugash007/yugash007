@@ -1,58 +1,103 @@
-# Hi there, I'm Yugash 👋
+👋 Hi, I’m Yugash (Yugii)
 
-### B.Tech AIML Student | Java Developer | Problem Solver | Truth Seeker
+B.Tech – Artificial Intelligence & Machine Learning
+Java | Python | AIML | Problem Solver | Builder-in-Progress
 
-🔭 I’m currently focused on:
-- Mastering **Data Structures and Algorithms using Java**
-- Strengthening **core Python** for AI/ML development
-- Building a strong base in **web development** with **HTML** and **CSS**
-- Exploring **low-level programming** through **C**
+I’m an AIML undergraduate building a strong computer science core with a long-term vision of working on impactful, real-world AI systems.
+My approach is simple: clarity → consistency → compounding growth.
 
-🌟 **What sets me apart:**
-- Dedicated to writing clean, logical, and optimized code
-- Comfortable with both **high-level scripting (Python)** and **low-level programming (C)**
-- Committed to improving every day through **projects**, **challenges**, and **learning by doing**
+🎯 Current Focus (2025–2026)
 
-💬 Ask me about:
-- Java DSA concepts, problems & patterns
-- Web page building with HTML & CSS
-- Basics of C programming and syntax
-- Git workflows and version control with GitHub
+Data Structures & Algorithms (Java)
+Problem-solving, patterns, optimization, and interview readiness
 
-📫 Reach me at: **yugash05@gmail.com**
+Artificial Intelligence & Machine Learning
 
-📄 View my resume: [Coming Soon!]
+Python foundations
 
-⚡ Fun fact: I believe consistent learning with purpose is the real superpower.
+ML concepts, data handling, and model logic
 
----
+Hands-on learning via courses and Kaggle-style practice
 
-### 🔧 Languages & Tools
+Core Computer Science
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+C programming for low-level understanding
 
----
+OS & memory-level thinking (early stage)
 
-### 📌 Featured Projects
+Web Foundations
 
-| Repository | Description |
-|------------|-------------|
-| **DSA-with-Java-Roadmap** | A step-by-step roadmap with Java DSA resources, formulas, and practice notes. |
-| **Coming Soon:** HTML/CSS Projects | Mini frontend projects to demonstrate layout, structure, and design basics. |
-| **Coming Soon:** Python Logic Projects | Basic Python programs for logic building and problem-solving. |
+HTML & CSS for structure and presentation
 
----
+Version Control & Collaboration
 
-### 🤝 Let's Connect
+Git, GitHub workflows, clean commits
 
-[LinkedIn](https://www.linkedin.com/in/yugash0007) · [Instagram](https://www.instagram.com/yugash_007) · [Email](mailto:yugash05@gmail.com)
+🧠 What Defines Me
 
----
+Logic-first thinker — I value why before how
 
-Thanks for visiting — let’s build, break, fix, and grow together!
+Comfortable moving between low-level (C) and high-level (Python, Java)
+
+Learn-by-doing mindset: problems → projects → refinement
+
+Disciplined, long-term focused, not chasing shortcuts
+
+Consistency with purpose beats intensity without direction.
+
+🛠️ Skills Snapshot
+Languages
+
+Java – DSA, problem-solving
+
+Python – AIML foundations, scripting
+
+C – Core programming concepts
+
+HTML & CSS – Web fundamentals
+
+Tools & Platforms
+
+Git & GitHub
+
+Kaggle Learn
+
+Coursera (Microsoft Python track)
+
+VS Code, Linux basics
+
+📌 Featured & Ongoing Projects
+Repository	Description
+DSA-with-Java-Roadmap	Structured Java DSA roadmap with patterns, notes, and practice strategy
+AI-Arena (Hackathon Project)	AI-based platform concept with modular architecture and scalable design
+HTML-CSS-Mini-Projects	Clean UI-focused mini projects to strengthen frontend fundamentals
+Python-Logic-Practice	Logic-building Python programs and problem-solving exercises
+
+More projects focused on AI, real-world problem solving, and system thinking are actively in progress.
+
+🏆 Activities & Learning
+
+Participating in hackathons and innovation challenges
+
+Completing industry-aligned courses in Python & AIML
+
+Regular practice on DSA and logic problems
+
+Exploring AI for social and environmental impact
+
+📫 Let’s Connect
+
+Email: yugash05@gmail.com
+
+LinkedIn: linkedin.com/in/yugash0007
+
+Instagram: @yugash_007
+
+📄 Resume: In progress
+
+🤝 Final Note
+
+I’m not here to look impressive 
+I’m here to become dangerous with fundamentals and use AI responsibly.
+
+If you believe in depth, discipline, and long-term thinking, let’s connect.
