@@ -49,17 +49,29 @@ My focus is on **first-principles thinking**, **strong computer science foundati
 
 <div align="center">
 
-### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" />
-
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=numpy,pandas,tensorflow&theme=dark" />
+## 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,markdown" />
 
 ### 🌐 Web
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+### 🤖 AI & Data
+<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+<img src="https://skillicons.dev/icons?i=matplotlib,sklearn" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+
+### ☁️ Deployment & Big Data
+<img src="https://skillicons.dev/icons?i=vercel,apache" />
+
+### 🎨 Design & Productivity
+<img src="https://skillicons.dev/icons?i=figma,canva,notion" />
+
+### ⚙️ Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
+
 
 </div>
 
